@@ -81,16 +81,7 @@ paths:
   model: models/model.pkl
 """
 
-# Fichier: requirements.txt
-"""
-pandas
-scikit-learn
-joblib
-yaml
-"""
 
-# Fichier: README.md
-"""
 
-"""
+
 
