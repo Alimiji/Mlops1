@@ -1,1 +1,8 @@
 # Dépendances
+# Fichier: requirements.txt
+
+pandas
+scikit-learn
+joblib
+yaml
+
